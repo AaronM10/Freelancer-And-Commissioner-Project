@@ -11,7 +11,7 @@ class SendingEmailsClass():
         self.server.ehlo()
         self.server.starttls()
         self.senderEmail = "ComputingProjectAlerts@outlook.com"
-        self.SenderEmailPassword = "mypmar-kajnoS-gihto3"
+        self.SenderEmailPassword = "############"
         self.LogginIntoEmailAccount()
         
     #Logs into the account
